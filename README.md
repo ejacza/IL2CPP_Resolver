@@ -96,7 +96,7 @@ if (pFunc) {
 
 ## Notes
 
-Some functions may still cause crashes depending on the target game and Unity version. Test carefully before using in production.
+Some functions may still cause crashes
 
 ## Credits
 
