@@ -94,6 +94,10 @@ if (pFunc) {
 - `Utils/` — Helper utilities (Hash, VTable, Helper)
 - `xdl/` — Dynamic linker library for symbol resolution
 
+## Notes
+
+Some functions may still cause crashes depending on the target game and Unity version. Test carefully before using in production.
+
 ## Credits
 
 - [sneakyevil/IL2CPP_Resolver](https://github.com/sneakyevil/IL2CPP_Resolver)
