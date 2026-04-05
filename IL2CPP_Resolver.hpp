@@ -87,6 +87,7 @@ namespace Unity
 #include "Unity/API/Renderer.hpp"
 
 #include "Utils/Helper.hpp"
+#include "Dumper.hpp"
 
 namespace IL2CPP
 {
